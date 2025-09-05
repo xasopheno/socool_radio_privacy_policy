@@ -1,2 +1,1 @@
-# reading_is_cool_privacy_policy
 # socool_radio_privacy_policy

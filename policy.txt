@@ -1,0 +1,1 @@
+This app collected no data about it's users. It is simply a distributed renderer for weresocool compositions. Have fun. 
